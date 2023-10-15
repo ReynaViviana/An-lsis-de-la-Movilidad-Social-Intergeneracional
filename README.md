@@ -28,5 +28,7 @@ https://www.inegi.org.mx/programas/mmsi/2016/#microdatos
 
 https://ceey.org.mx/
 
+# Difusión del proyecto 
+![Captura de pantalla 2023-10-15 164334](https://github.com/ReynaViviana/An-lsis-de-la-Movilidad-Social-Intergeneracional/assets/128557812/0f378690-0cdb-4e9f-98a2-5c759fc7d05f)
 
 
