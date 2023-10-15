@@ -1,0 +1,2 @@
+Se agregan dos bases de datos, la primera MMSI_2016.csv, es tal cual como la descargamos de la página del INEGI 
+La segunda, emovi_sinvacios.csv es la base de datos ya limpia con solo las variables que se utilizarán para este ejercicio del proyecto EDA 

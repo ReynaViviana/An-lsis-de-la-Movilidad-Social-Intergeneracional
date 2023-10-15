@@ -1,0 +1,1 @@
+Se hizo la realización del codigo python en google colab, agregando algunos comentarios y descripción de datos en aquellos apartados que se consideraron necesarios. 
