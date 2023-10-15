@@ -15,4 +15,18 @@ Como un primer momento se obtuvieron las siguientes gráficas, en las cuales sol
 
 ![estrato socioeconomico](https://github.com/ReynaViviana/An-lsis-de-la-Movilidad-Social-Intergeneracional/assets/128557812/f0f1ec8a-3f58-4653-bbca-6a093a6a120f)
 
+# Archivo .py 
+
+El código realizado para la limpieza de datos así como para la realización de las gráficas se puede encontrar en la siguiente liga. src
+
+# Referencias 
+
+https://www.inegi.org.mx/contenidos/programas/mmsi/2016/doc/principales_resultados_mmsi_2016.pdf
+
+
+https://www.inegi.org.mx/programas/mmsi/2016/#microdatos
+
+https://ceey.org.mx/
+
+
 
