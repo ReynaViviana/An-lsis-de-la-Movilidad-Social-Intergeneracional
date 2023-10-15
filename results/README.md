@@ -1,0 +1,2 @@
+Este fue una primera exploración de los datos, se eliminarón algunas variables que puedens ser de relevancia, ya que este solo es un ejercicio práctico. 
+En un futuro se pretende realizar correlaciones entre variables para saber si el grado de estudios tiene influencia en el estato social de las personas. 
